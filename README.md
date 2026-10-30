@@ -3,7 +3,7 @@
 Kaggle competition entry: *Predicting Airline Satisfaction* (binary classification, metric: ROC-AUC).
 **Public leaderboard ROC-AUC: 0.96028** (3-model blend).
 
-![Overview](assets/fig_overview.png)
+![Overview](fig_overview.png)
 
 *Figure 1. (a) Pipeline. (b) Holdout ablation, axis truncated; single 80/20 split, one seed. (c) Learning curve with a fixed holdout. Public leaderboard ROC-AUC of the final blend: 0.96028.*
 
